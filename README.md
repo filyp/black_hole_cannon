@@ -4,4 +4,7 @@
 ![consumption](plots/consumption_given_orbit_radius.png)
 
 
-<video width="630" height="300" src="https://github.com/filyp/black_hole_star_poisoning/raw/main/animations/hungriest_orbit.mp4"></video>
+## Hungriest orbit
+https://github.com/filyp/black_hole_star_poisoning/assets/26285707/3c902f17-1b12-4bdd-a7cd-cb9506e46c97
+
+
